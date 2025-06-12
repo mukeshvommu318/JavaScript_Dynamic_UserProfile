@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.paraClass{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
